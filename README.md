@@ -3,12 +3,14 @@
 與那覇　篤希
 https://github.com/YonahaAtsuki/Sample/new/master?readme=1
 
-#　ローカルリポジトリ
+
+# ローカルリポジトリ
 *****
-*お好み焼きレシピ
+* お好み焼きレシピ
  https://github.com/YonahaAtsuki/Sample/blob/master/okonomi.txt
 
-#リモートリポジトリ
+
+# リモートリポジトリ
 *****
-*README.mdを使ってみる
-*マークダウンを覚える
+* README.mdを使ってみる
+* マークダウンを覚える
