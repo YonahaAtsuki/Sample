@@ -1,7 +1,7 @@
 # はじめてのGitHub
 *****
 與那覇　篤希
-https://github.com/YonahaAtsuki/Sample/new/master?readme=1
+https://github.com/YonahaAtsuki/Sample
 
 
 # ローカルリポジトリ
